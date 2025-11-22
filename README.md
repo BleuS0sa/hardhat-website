@@ -1,7 +1,7 @@
-Complete.
-Your upgraded deployment kit is ready:
+}[#[💥12.4K🕋🎅🏾Hear5X🕕🤯🫥₽6§?!.,'?@🔫🌜🫚			-----5/321^@📙į🚕🚖🚕🔐4Negated<+❌🎣🚕❌2️⃣🎬🕑💷🏪🥇🚛🔞🕚🏄🏾🏄🏾‍♀️🏄🏾‍♂️🔟📕2️⃣🎬📗🥈🏪🎏🌕🌖🌗🌘🌒🌙🌘🕔5️⃣📉📈📉🟰🎞️💭🤔😌🤑assurnace 🙌🏾🙌🏾We take the€@ (I🏛️♐️🏹🗾)[1ĮĪ,;/|\*₽₩^aI..../*🕗🕚Ķ/ÞĊ271.₽¡)2*@ŘȚǏ+Ħ🏛️PreÝ⛓️‍💥¥+,ẞ_Å1į♐️🏹📈⛓️‍💥🗾🏛️🗾🏛️🗾ï5📉📉🪡💉📈\^ Video coming it is .111111...^S🫥🏝️🏖️🗺️🥔🧛🏾🧛🏾‍♀️🧛🏾‍♂️🧄🧅🌛🌓⚕️🎡🤯🤯🫚🫚🫚🫚🔫🕓📙ẞķsnake24^,8/3}-6/8.⚕️🧛🏾‍♂️🧄🕕😐🫥@T°*ŘÞ{#}A@#₽xoxoOoĠÏÞ🌜🦑🐙🏕️⛺️🎪😦😧😨🎪😦🪞🪩🧑‍🧑‍🧒👦🏾🏺😷📇🧑🏾‍💼👩🏾‍💼👨🏿‍💼🌒☪️⚜️🪡♐️💱⛓️‍💥🐠🌐⌚️⏱️♓️🦑🦈🚰🚱🫂🥶☝🏾🗽🕘9️⃣🈲🔱🌓🌔moo🐄🐮🌘❌ Complete.
+	Your upgraded deployment kit is ready:
 
-Download EVOLVERSE_Mint_Deploy_Bundle_v2.zip￼
+Download EVOLVERSE_Mint_Deploy_Bundle_v2.zip￼https://chatgpt.com/
 
 Additions
 	•	scripts/ipfsUploader.js — uploads all manifest files to IPFS through Pinata or Web3.Storage
@@ -62,7 +62,7 @@ npm run manifest       # rebuild EVOLVERSE_MINT_MANIFEST.json from ./data
 
 ENFT_ADDRESS=0xYourEnftAddress npm run mint
 npm run anchor         # optional Arweave placeholder
-
+⛩️@@ħ📉🅱️🦠⏮️⏪⏮️⏪¥_o1@⛩️
 Want me to also include a Pinata/web3.storage uploader and a minimal verify script, or keep it lean? ￼
 Below is your chain-ready sequence for Avalanche (main) and Polygon (governance).
 
@@ -138,3 +138,4 @@ If you want to contribute to Hardhat, see [Hardhat's repository](https://github.
 If you want to contribute to EDR, see [EDR's repository](https://github.com/NomicFoundation/EDR).
 
 If you want to contribute to the website, see [CONTRIBUTING.md](./CONTRIBUTING.md).
+🤵🏾‍♂️🫥💥🫥🫥🫥💥😑😐🛫🛬🥲oxOŴŘ@,'🐑🐈‍⬛👆🏽🥹⏪⏮️🔙🤚🤔🦠🫃Toc@@Tic😆🥺😭🅱️i🧿🧮📿🧑🏾‍🔬📉🐻‍❄️🇧🇲🍓👨🏿‍🎨🫐🍓💀🎃🎃🔞🚫🔞🚫🔞🔞🔞🚫🔞🚫🔞🚫🔞🚫🔞🔞@Ťen5/167ħœ₽-a,@7U🦯🦯🦯🦯🦯🚑🚓zN@d@ÞĶ@Cj#SunN24🅱️🌥️Ð
