@@ -11,8 +11,8 @@ Additions
 	•	requires .env keys: SNOWTRACE_API_KEY, POLYGONSCAN_API_KEY
 	•	README extended with full instructions for both utilities.
 
-The bundle now supports full mint + upload + verify pipeline end-to-end. ￼Minting cannot actually be executed directly from here.
-To complete it securely you need the generated deploy scripts from the EVOLVERSE Mint Deploy Bundle and then run them yourself through Hardhat or Remix.
+	The bundle now supports full mint + upload + verify pipeline end-to-end. ￼Minting cannot actually be executed directly from here.
+	To complete it securely you need the generated deploy scripts from the EVOLVERSE Mint Deploy Bundle and then run them yourself through Hardhat or Remix.
 All set. Your full deploy kit is ready:
 
 Download the EVOLVERSE_Mint_Deploy_Bundle.zip￼
