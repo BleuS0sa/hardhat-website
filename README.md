@@ -138,4 +138,4 @@ If you want to contribute to Hardhat, see [Hardhat's repository](https://github.
 If you want to contribute to EDR, see [EDR's repository](https://github.com/NomicFoundation/EDR).
 
 If you want to contribute to the website, see [CONTRIBUTING.md](./CONTRIBUTING.md).
-🤵🏾‍♂️🫥💥🫥🫥🫥💥😑😐🛫🛬🥲oxOŴŘ@,'🐑🐈‍⬛👆🏽🥹⏪⏮️🔙🤚🤔🦠🫃Toc@@Tic😆🥺😭🅱️i🧿🧮📿🧑🏾‍🔬📉🐻‍❄️🇧🇲🍓👨🏿‍🎨🫐🍓💀🎃🎃🔞🚫🔞🚫🔞🔞🔞🚫🔞🚫🔞🚫🔞🚫🔞🔞@Ťen5/167ħœ₽-a,@7U🦯🦯🦯🦯🦯🚑🚓zN@d@ÞĶ@Cj#SunN24🅱️🌥️Ð
+	Š🤵🏾‍♂️🌊🩻💙❤️🤍🖤💔💌🧊🫥ŻŻŒŽ♈️I49-💥🫥🫥🫥💥😑😐🛫🛬🥲zz(oxOŴŘ@,'🐑🐈‍⬛👆🏽🥹⏪⏮️🔙🤚🤔🦠🫃Toc@@--2Tic😆🥺😭🅱️i🧿🧮📿🧑🏾‍🔬📉🐻‍❄️🇧🇲🍓👨🏿‍🎨🫐🍓💀🎃🎃🔞🚫🔞🚫🔞🔞🔞🚫🔞🚫🔞🚫🔞🚫🔞🔞.-25/@Ťen5/167ħœ₽-ÅÆ5-oøța,@1-2-ba1-7Uv🦯4🦯1|ĦrG@2🦯4I85🦯8🦯🚑🚓zZxzozN@d@ÞĶ@CXkj#(())SunN24🅱️🌥️🗼🗼🪂🌃🤡🎪🤹🏽‍♀️🤹🏾🎡ÞĦ¡ŶaĦġä⛽️🎡🤹🏾..)
